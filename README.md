@@ -3,7 +3,7 @@
 ## Student Information
 - **Name:** Faiaz
 - **Student ID:** 252-35-597
-- **Section:** 45-H
+- **Section:** 45-H2
 - **Course:** SE 217 - Object Oriented Programming Lab
 - **Semester:** Fall 2026
 
