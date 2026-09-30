@@ -1,6 +1,6 @@
 # SE 217: Object Oriented Programming Lab
 
-## ðŸ‘¤ Student Information
+## Student Information
 - **Name:** Faiaz
 - **Student ID:** 252-35-597
 - **Section:** 45-H
@@ -9,7 +9,7 @@
 
 ---
 
-## ðŸ“– Repository Description
+## Repository Description
 This repository contains lab exercises and practice solutions for the **SE 217: Object Oriented Programming Lab** course.
 
 ### Reference Playlist
@@ -17,36 +17,36 @@ This repository contains lab exercises and practice solutions for the **SE 217: 
 
 ---
 
-## ðŸ“‚ Repository Structure
+## Repository Structure
 ```text
 se217-oop-lab/
-â”œâ”€â”€ README.md
-â””â”€â”€ week02/
-    â””â”€â”€ src/
-        â”œâ”€â”€ Java01.java
-        â”œâ”€â”€ Java02.java
-        â”œâ”€â”€ Java03.java
-        â”œâ”€â”€ Java04.java
-        â”œâ”€â”€ Java05.java
-        â”œâ”€â”€ Java06.java
-        â”œâ”€â”€ Java07.java
-        â”œâ”€â”€ Java08.java
-        â”œâ”€â”€ Java09.java
-        â”œâ”€â”€ Java10.java
-        â”œâ”€â”€ Java11.java
-        â”œâ”€â”€ Java12.java
-        â”œâ”€â”€ Java13.java
-        â”œâ”€â”€ Java14.java
-        â”œâ”€â”€ Java15.java
-        â”œâ”€â”€ Java16.java
-        â”œâ”€â”€ Java17.java
-        â”œâ”€â”€ Java18.java
-        â””â”€â”€ Java19.java
+|-- README.md
+\-- week02/
+    \-- src/
+        |-- Java01.java
+        |-- Java02.java
+        |-- Java03.java
+        |-- Java04.java
+        |-- Java05.java
+        |-- Java06.java
+        |-- Java07.java
+        |-- Java08.java
+        |-- Java09.java
+        |-- Java10.java
+        |-- Java11.java
+        |-- Java12.java
+        |-- Java13.java
+        |-- Java14.java
+        |-- Java15.java
+        |-- Java16.java
+        |-- Java17.java
+        |-- Java18.java
+        \-- Java19.java
 ```
 
 ---
 
-## ðŸ“‹ Program Index
+## Program Index
 
 | Lecture # | File | Topic Summary |
 |:---:|:---|:---|
@@ -54,7 +54,7 @@ se217-oop-lab/
 | 02 | [`Java02.java`](./week02/src/Java02.java) | Standard output & escape sequences (`\n`, `\t`) |
 | 03 | [`Java03.java`](./week02/src/Java03.java) | Variable declaration & `double` primitive type |
 | 04 | [`Java04.java`](./week02/src/Java04.java) | Primitive types (`int`, `float`, `long`), casting & operations |
-| 05 | [`Java05.java`](./week02/src/Java05.java) | `if-else` branching & logical OR (`\|\|`) condition check |
+| 05 | [`Java05.java`](./week02/src/Java05.java) | `if-else` branching & logical OR (`||`) condition check |
 | 06 | [`Java06.java`](./week02/src/Java06.java) | `else-if` ladder (Age category classifier) |
 | 07 | [`Java07.java`](./week02/src/Java07.java) | `switch-case` control flow with expressions |
 | 08 | [`Java08.java`](./week02/src/Java08.java) | Pre-increment (`++x`) vs Post-increment (`x++`) behavior |
@@ -72,7 +72,7 @@ se217-oop-lab/
 
 ---
 
-## ðŸš€ How to Run
+## How to Run
 Compile and run any program from the terminal:
 ```bash
 # Navigate to src folder
